@@ -1,0 +1,9 @@
+E:\workspace\DCOMSecurity\DCOMSecurity\bin\Debug\DCOMSecurity.exe.config
+E:\workspace\DCOMSecurity\DCOMSecurity\bin\Debug\DCOMSecurity.exe
+E:\workspace\DCOMSecurity\DCOMSecurity\bin\Debug\DCOMSecurity.pdb
+E:\workspace\DCOMSecurity\DCOMSecurity\obj\Debug\DCOMSecurity.Form1.resources
+E:\workspace\DCOMSecurity\DCOMSecurity\obj\Debug\DCOMSecurity.Properties.Resources.resources
+E:\workspace\DCOMSecurity\DCOMSecurity\obj\Debug\DCOMSecurity.csproj.GenerateResource.Cache
+E:\workspace\DCOMSecurity\DCOMSecurity\obj\Debug\DCOMSecurity.exe
+E:\workspace\DCOMSecurity\DCOMSecurity\obj\Debug\DCOMSecurity.pdb
+E:\workspace\DCOMSecurity\DCOMSecurity\obj\Debug\DCOMSecurity.csprojResolveAssemblyReference.cache
